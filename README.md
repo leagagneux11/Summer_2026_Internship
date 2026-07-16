@@ -1,1 +1,1 @@
-# Summer_2026_Internship
+# Summer 2026 Internship
