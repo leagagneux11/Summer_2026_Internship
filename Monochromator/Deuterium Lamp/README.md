@@ -23,10 +23,18 @@ Before pulling a vacuum, the initial objective was to ensure the general functio
   1. The raw emission spectrum from the lamp's datasheet.
   2. The Photon Detection Efficiency (PDE) of the SiPM (simplified to a constant value of `0.24`).
   3. Atmospheric absorption along the optical path ($L \approx 0.7\text{ m}$) using the transmission equation:
+
      $$T(\lambda) = \exp\left(-\frac{L_{\text{path}}}{L_{\text{atten}}(\lambda)}\right)$$
+
 * **Angle-to-Wavelength ($\lambda$) Conversion Formula:**
+
   $$\lambda = \frac{2d \cdot \cos(\phi) \cdot \sin(\gamma \cdot (\theta - \theta_0))}{m}$$
-  *(With optimized fit parameters: $d = 835.5\text{ nm}$, $\phi = 35^\circ$, $\gamma = 1.0028$, and $\theta_0 = 0.35^\circ$)*.
+
+  *With optimized fit parameters:*
+  * $d = 835.5\text{ nm}$
+  * $\phi = 35^\circ$
+  * $\gamma = 1.0028$
+  * $\theta_0 = 0.35^\circ$
 
 ### Results and Insights
 * **Excellent Agreement:** The calibrated experimental spectrum and the theoretical model overlaid very well.
