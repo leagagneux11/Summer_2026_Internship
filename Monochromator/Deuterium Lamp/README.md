@@ -1,4 +1,4 @@
-# Deuterium Lamp Spectrum, Calibration, and Stability Studies
+# Deuterium Lamp Spectrum, Calibration, Stability and Resolution Studies
 
 This repository contains the analysis code, as well as the data files and result plots for the **VUV (vacuum ultraviolet) monochromator system** equipped with a **deuterium lamp** and **SiPM (silicon photomultiplier)** photodetectors.
 
