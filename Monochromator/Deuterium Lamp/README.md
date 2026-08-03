@@ -56,7 +56,7 @@ Once the chamber was successfully pumped down to vacuum, a systematic series of 
 * **Objective:** Evaluate if the light flux or the overall system response varies throughout the day.
 * **Initial Issues:** Continuous wide scans (moving the grating from -2° to 15° every hour) led to actuator overheating, causing consecutive software crashes.
 * **Miguel's Static Test:** To bypass motor stress, a static script recorded measurements every 5 minutes at a fixed angle ($5.65^\circ$) over 6 hours.
-  * **Lamp Warm-up:** This data clearly demonstrated that the **deuterium lamp requires approximately 20 minutes** after power-on to reach thermal and optical stability.
+  * **Lamp Warm-up:** This data clearly demonstrated that the **deuterium lamp requires approximately 20 minutes** after power-on to reach stability.
 * **SiPM Stabilization Study:** 
   * Short-duration baseline tests were conducted using the same script. 
   * **Power Cycling Effect:** Between each of these short runs, the SiPM was completely powered off and then powered back. The resulting data showed a distinct downward curvature at the start of each measurement.
