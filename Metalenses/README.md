@@ -26,8 +26,8 @@ This design is adapted from the original 3D model created by **Mathias** for the
 * **Metalens Slot:** Includes a slot designed to slide in a metalens, positioned at a focal distance of approximately **$10\text{ mm}$** from the $3\times3\text{ mm}^2$ SiPM face.
 
 
-> **IMPORTANT ALIGNMENT NOTE FOR FABRICATION:**
-> 
+## echnical Considerations & Alignment Warning
+
 > * **Current Design Assumption:** The current CAD models align the geometric center of the window opening directly with the center of the SiPM active area.
 > * **Metalens Substrate Offset:** Many fabricated metalenses are **not perfectly centered** on their square substrate. 
 > * **Adjustment Requirement:** Depending on the exact position of the metalens pattern on its physical substrate, it may be necessary to adjust the lateral placement of the $3\times3\text{ mm}^2$ SiPM pocket. 
