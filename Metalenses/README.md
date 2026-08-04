@@ -1,4 +1,4 @@
-# TwoSiPM Metalens Holder & Windows Integration
+# Two SiPM Metalens Holder & Windows
 
 ## Project Overview
 
