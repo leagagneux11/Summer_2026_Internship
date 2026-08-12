@@ -1,6 +1,6 @@
 # Experimental Bench: CRAB Reproduction Setup
 
-**Author:** Léa  
+**Author:** Léa Gagneux
 **Date:** August 12, 2026  
 **Object:** First operation of the Image Intensifier by the Manchester Neutrino Group.
 
