@@ -14,8 +14,7 @@ The image intensifier was powered on in strict compliance with the Standard Oper
 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/b520ffea-7dd9-4908-9b5f-bbad44a736b6" />
 
-
-### Schematic
+* **Setup schematic**
 <img width="600" height="260" alt="image" src="https://github.com/user-attachments/assets/238d35af-7005-485f-bf0d-c39a74c853cb" />
 
 
@@ -53,6 +52,6 @@ Starting at 11:25 AM, the target was moved backwards along the optical axis in *
 
 | Parameter | Value / Range |
 | :--- | :--- |
-| **Best Target Distance (from lens base)** | **362 mm** |
+| **Best Target Distance (from center of the lens holder)** | **381.1 mm** |
 | **Gain Detection Threshold** | **2.1 V** |
 | **Recommended Operational Gain** | **0.5 V – 1.5 V** |
