@@ -18,7 +18,7 @@ The image intensifier was powered on in strict compliance with the Standard Oper
 
 
 ### Schematic
-<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/d407dde1-73d3-4e6b-94af-9718ad2dd748" />
+<img width="1634" height="707" alt="image" src="https://github.com/user-attachments/assets/238d35af-7005-485f-bf0d-c39a74c853cb" />
 
 
 ---
