@@ -28,8 +28,8 @@ The gain regulator was swept from **5.0 V down to 0.0 V**:
 * **Threshold Voltage:** The target pattern first became visible on the camera at **2.1 V** gain.
 * **Captures Taken:** Dedicated reference images were recorded at gain settings of **2.0 V, 1.5 V, 1.0 V, 0.5 V, and 0.0 V**.
 
-![Phosphor Screen Image Output](<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/a9e00e83-9179-4a42-b875-73c4ec39ec3f" />
-)
+Phosphor Screen Image Output:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/a9e00e83-9179-4a42-b875-73c4ec39ec3f" />
 
 ---
 
