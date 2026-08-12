@@ -47,7 +47,7 @@ Starting at 11:25 AM, the target was moved backwards along the optical axis in *
 
 ---
 
-## 4. Key Takeaways & Optimal Parameters
+## 4. Key Takeaways 
 
 | Parameter | Value / Range |
 | :--- | :--- |
