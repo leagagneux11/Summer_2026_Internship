@@ -50,7 +50,7 @@ This setup combines a 10 mm metalens in series with a 75 mm lens to focus light 
 ## 3. Mechanical Discrepancy & Calculation Analysis
 
 **Important Note on the Holder Geometry:**
-1. **Current State:** Tests were conducted with the original holder. The new holder (shorter by **10 mm**) has not been installed yet.
+1. **Current State:** Tests were conducted with a temporary holder. The new holder (shorter by **10 mm**) has not been installed yet.
 2. **Offset Breakdown:**
    * **Theoretical Position (Calculated by Ian):** `345 mm`
    * **Experimental Rail Position:** `360 mm`
