@@ -12,7 +12,6 @@ The image intensifier was powered on in strict compliance with the Standard Oper
 
 * **Optical Components:** Target, 75 mm lens, Image Intensifier, 50 mm lens and capture camera.
 
-[CRAB Experimental Setup] 
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/b520ffea-7dd9-4908-9b5f-bbad44a736b6" />
 
 
@@ -29,7 +28,8 @@ The gain regulator was swept from **5.0 V down to 0.0 V**:
 * **Threshold Voltage:** The target pattern first became visible on the camera at **2.1 V** gain.
 * **Captures Taken:** Dedicated reference images were recorded at gain settings of **2.0 V, 1.5 V, 1.0 V, 0.5 V, and 0.0 V**.
 
-![Phosphor Screen Image Output](:/ebee06fce367487590d1b0b0256b0c9c)
+![Phosphor Screen Image Output](<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/a9e00e83-9179-4a42-b875-73c4ec39ec3f" />
+)
 
 ---
 
