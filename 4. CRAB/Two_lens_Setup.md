@@ -30,16 +30,24 @@ This setup combines a 10 mm metalens in series with a 75 mm lens to focus light 
 
 | Capture # | Position / Condition | Observations & Resolution | Image Reference |
 | :---: | :--- | :--- | :---: |
-| **Capture 1** | Rail distance: **345 mm** (Ian's theoretical calculation) | Image out of focus. | ![]( :/c16d45fd1533426eb6f6041d866bc57c) |
-| **Capture 2** | Metalens adjusted to **360 mm** on rail | **Optimal focal point / Best resolution achieved.** | ![]( :/ab8ceed9d112ef15ccc8deba9aea652e) |
-| **Capture 3** | Same configuration (360 mm on rail) | Confirmed measurement repeatability. | ![]( :/df1e56d2f9bc30f53e370fa8bc5b95fc) |
-| **Capture 4** | **Flipped Metalens** (360 mm on rail) | Same focal distance and resolution. No orientation bias observed. | ![]( :/5ce4d57e3f7965233fe6cf71fe0ec945) |
+| **Capture 1** | Rail distance: **345 mm** (Ian's theoretical calculation) | Image out of focus. | <img width="600" height="450" alt="frame_20260812_141615_019028" src="https://github.com/user-attachments/assets/6b80bc9c-5f89-438a-b25e-34a59911c78a" />
+ |
+| **Capture 2** | Metalens adjusted to **360 mm** on rail | **Optimal focal point / Best resolution achieved.** | <img width="600" height="450" alt="frame_20260812_142114_374977" src="https://github.com/user-attachments/assets/aadfae5c-a982-474c-a7b4-52b577b00cb4" />
+ |
+| **Capture 3** | **Flipped Metalens** (360 mm on rail) | Same focal distance and resolution. No orientation bias observed. | <img width="600" height="450" alt="frame_20260812_142503_494820" src="https://github.com/user-attachments/assets/f3bf8cbc-dff7-41a9-a727-7ff7c3b4d3e9" />
+|
 
 * **75 mm Lens Adjustment Test:** Moving the 75 mm lens away from its position degraded the focal plane and caused defocusing.
 * **Gain Sweep (at 360 mm rail position):**
-  * **Capture 5:** Gain = 1.0 V
-  * **Capture 6:** Gain = 1.5 V
-  * **Capture 7:** Gain = 2.0 V
+  * **Capture 4:** Gain = 1.0 V
+    <img width="600" height="450" alt="frame_20260812_142646_008290_1V" src="https://github.com/user-attachments/assets/b1bb0070-9148-4591-af1b-4d5c4cdbb340" />
+
+  * **Capture 5:** Gain = 1.5 V
+    <img width="600" height="450" alt="frame_20260812_142710_172736_1 5V" src="https://github.com/user-attachments/assets/9823071d-a4cc-4cbf-8dbd-f46984bae978" />
+
+  * **Capture 6:** Gain = 2.0 V
+    <img width="600" height="450" alt="frame_20260812_142721_199736_2V" src="https://github.com/user-attachments/assets/96cbbbb5-a46b-41e4-afe7-f44d8ab2494d" />
+
 
 ---
 
@@ -55,8 +63,7 @@ This setup combines a 10 mm metalens in series with a 75 mm lens to focus light 
 
 ---
 
-## 4. Next Steps & Recommendations for the Team
+## 4. Next Steps
 
 1. **Holder Swap:** Replace the current holder with the **10 mm shorter** version.
-2. **Validation:** Re-run a focal sweep around **350 mm on the rail** with the new holder to confirm the ~5 mm residual difference from Ian's model.
-3. **Metalens Orientation:** Flipping the metalens does not impact resolution or optical path length; orientation can remain flexible.
+2. **Validation:** Re-run a focal sweep around **345-350 mm on the rail** with the new holder to confirm or refute the ~5 mm residual difference from Ian's model.
