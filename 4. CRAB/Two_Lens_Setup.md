@@ -29,12 +29,9 @@ This setup combines a 10 mm metalens in series with a 75 mm lens to focus light 
 
 | Capture # | Position / Condition | Observations & Resolution | Image Reference |
 | :---: | :--- | :--- | :---: |
-| **Capture 1** | Rail distance: **345 mm** (Ian's theoretical calculation) | Image out of focus. | <img width="600" height="450" alt="frame_20260812_141615_019028" src="https://github.com/user-attachments/assets/6b80bc9c-5f89-438a-b25e-34a59911c78a" />
- |
-| **Capture 2** | Metalens adjusted to **360 mm** on rail | **Optimal focal point / Best resolution achieved.** | <img width="600" height="450" alt="frame_20260812_142114_374977" src="https://github.com/user-attachments/assets/aadfae5c-a982-474c-a7b4-52b577b00cb4" />
- |
-| **Capture 3** | **Flipped Metalens** (360 mm on rail) | Same focal distance and resolution. No orientation bias observed. | <img width="600" height="450" alt="frame_20260812_142503_494820" src="https://github.com/user-attachments/assets/f3bf8cbc-dff7-41a9-a727-7ff7c3b4d3e9" />
-|
+| **Capture 1** | Rail distance: **345 mm** (Ian's theoretical calculation) | Image out of focus. | <img width="600" height="450" alt="frame_20260812_141615_019028" src="https://github.com/user-attachments/assets/6b80bc9c-5f89-438a-b25e-34a59911c78a" /> |
+| **Capture 2** | Metalens adjusted to **360 mm** on rail | **Optimal focal point / Best resolution achieved.** | <img width="600" height="450" alt="frame_20260812_142114_374977" src="https://github.com/user-attachments/assets/aadfae5c-a982-474c-a7b4-52b577b00cb4" /> |
+| **Capture 3** | **Flipped Metalens** (360 mm on rail) | Same focal distance and resolution. No orientation bias observed. | <img width="600" height="450" alt="frame_20260812_142503_494820" src="https://github.com/user-attachments/assets/f3bf8cbc-dff7-41a9-a727-7ff7c3b4d3e9" / |
 
 * **75 mm Lens Adjustment Test:** Moving the 75 mm lens away from its position degraded the focal plane and caused defocusing.
 * **Gain Sweep (at 360 mm rail position):**
