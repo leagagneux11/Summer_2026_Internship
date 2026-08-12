@@ -12,7 +12,7 @@ The image intensifier was powered on in strict compliance with the Standard Oper
 
 * **Optical Components:** Target, 75 mm lens, Image Intensifier, 50 mm lens and capture camera.
 
-[CRAB Experimental Setup] <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/b520ffea-7dd9-4908-9b5f-bbad44a736b6" />
+[CRAB Experimental Setup] <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/b520ffea-7dd9-4908-9b5f-bbad44a736b6" />
 
 
 
