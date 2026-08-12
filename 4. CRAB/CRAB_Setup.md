@@ -41,10 +41,11 @@ The gain regulator was swept from **5.0 V down to 0.0 V**:
 ## 3. Distance Sweep & Resolution Optimization
 
 Starting at 11:25 AM, the target was moved backwards along the optical axis in **5 mm increments**:
-* **Maximum Distance Reached:** Target object placed at **37.2 cm** from the base of the 75 mm lens.
-* **Optimal Focusing Point:** The highest image sharpness and resolution were achieved with the target at **362 mm (36.2 cm)** from the base of the 75 mm lens.
+* **Maximum Distance Reached:** Target object placed at **391.1 mm** from the center of the 75 mm lens holder.
+* **Optimal Focusing Point:** The highest image sharpness and resolution were achieved with the target at **381.1 mm** from the center of the 75 mm lens holder.
 
-![Best Resolution Capture - CRAB Setup](:/2ba265c244dc4bc295108936d6d52b69)
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/5c02195c-866f-41c6-b50a-e4b749c6f62c" />
+
 
 ---
 
