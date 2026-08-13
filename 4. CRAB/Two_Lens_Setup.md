@@ -61,7 +61,7 @@ This setup combines a 10 mm metalens in series with a 75 mm lens to focus light 
 
 ## 4. Next Steps
 
-1. **Holder Swap:** Replace the current holder with the **10 mm shorter** version.
+1. **Holder Swap:** Replace the current holder with the **10 mm shorter** version (need to make the change in the CAD file)
 2. **Validation:** Re-run a focal sweep around **345-350 mm on the rail** with the new holder to confirm or refute the ~5 mm residual difference from Ian's model.
 3. **Metalens:** Clarify whether or not a metalens with a focal length of approximately 64 mm has been produced; if not, check with Augusto about having one made.
    
